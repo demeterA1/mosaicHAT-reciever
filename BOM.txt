@@ -1,0 +1,17 @@
+display: https://www.laskakit.cz/20x4-lcd-displej-2004-zeleny-i2c-prevodnik/
+
+mosaicHAT - už máme
+
+gnss anténa - už máme
+
+tlačítko: https://dratek.cz/arduino/919-tlacitko.html
+
+arduino UNO R4 wifi: https://www.laskakit.cz/arduino-uno-r4-wifi--original/
+
+2* 9v baterie: https://www.alza.cz/varta-alkalicka-baterie-longlife-9v-2-ks-d7841303.htm
+
+2* 9V connector pro baterky: https://dratek.cz/arduino/1354-klip-na-9v-baterii.html
+
+kabely: https://dratek.cz/arduino/1063-eses-40-x-m-m-dupont-kabel.html
+
+nepájivé kontaktní pole: https://dratek.cz/arduino/1426-nepajive-kontaktni-pole-zy-170-b.html
