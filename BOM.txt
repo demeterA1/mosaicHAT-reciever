@@ -1,17 +1,19 @@
-display: https://www.laskakit.cz/20x4-lcd-displej-2004-zeleny-i2c-prevodnik/
+display: https://www.laskakit.cz/4-0--480x320-tft-displej--st7796--spi--dotykovy/
+
+arduino UNO R4 wifi: https://www.laskakit.cz/arduino-uno-r4-wifi--original/
 
 mosaicHAT - už máme
 
 gnss anténa - už máme
 
-tlačítko: https://dratek.cz/arduino/919-tlacitko.html
+tlačítko: https://www.gme.cz/v/1497285/kls-ts6601-100-180-mikrospinac
 
-arduino UNO R4 wifi: https://www.laskakit.cz/arduino-uno-r4-wifi--original/
+nepájivé kontaktní pole: https://www.gme.cz/v/1507995/zy-60-nepajive-kontaktni-pole
+
+2* 9V connector pro baterky: https://www.gme.cz/v/1497087/bs-ic-napajeci-konektor
+
+kabely: https://www.gme.cz/v/1507927/zyj-w3-m-f-dupont-propojovaci-vodice-vidlice-zasuvka-40-zil
+	https://www.gme.cz/v/1507928/zyj-w3-f-f-dupont-propojovaci-vodice-zasuvka-zasuvka-40-zil
+
 
 2* 9v baterie: https://www.alza.cz/varta-alkalicka-baterie-longlife-9v-2-ks-d7841303.htm
-
-2* 9V connector pro baterky: https://dratek.cz/arduino/1354-klip-na-9v-baterii.html
-
-kabely: https://dratek.cz/arduino/1063-eses-40-x-m-m-dupont-kabel.html
-
-nepájivé kontaktní pole: https://dratek.cz/arduino/1426-nepajive-kontaktni-pole-zy-170-b.html
