@@ -5,7 +5,7 @@ návod
 ## 1. motivation
 tohle je manual pro přijímač satelitu, který ti řekne podle nich tvoji pozici. Budeme používta [GNSS](https://en.wikipedia.org/wiki/Satellite_navigation)(Global Navigation Satellite System) anténu, která přijímá signál ze satelitů, [MosaicHAT](https://github.com/septentrio-gnss/mosaicHAT/tree/master) což je součástka, která ti zpracovává signál a dá ti různé data ohledně tve pozice a pozice satelitů. Aby jsme vytiskly naše informace použijeme Arduino UNO R4 wifi. Připojení k wifi použijem na to, aby mosaicHAT se připojil k [RTK](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning)(Real-time kinematic positioning) stanicím, které nám zpřesní naši pozici.
 
-## x. součástky
+## x. hardware
    ### x.1 list součástek
          1x mosaicHAT
          1x GNSS antena
