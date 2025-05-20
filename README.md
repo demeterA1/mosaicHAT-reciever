@@ -14,6 +14,7 @@ tohle je manual pro přijímač satelitu, který ti řekne podle nich tvoji pozi
          2x klip na 9v baterie
          1x displej
          1x tlačítko(nepotřebný)
+         kable
    ### x.2 navod   
       budeme potřebovat GNSS antenu, kterou připojíme na mosaicHAT\
       mosaicHAT připojíme na arduino UNO R4 Wifi\
