@@ -11,5 +11,5 @@ návod
    1.7 budeme potřebovat 2 9v baterie, na arduinoa a na GNSS satelit
 
 ## 2. software
-   2.1 mosaicHAT se bude must nastavit přes stránky septentrio (http://192.168.3.1)\
+   2.1 mosaicHAT se bude must nastavit přes stránky septentrio ( http://192.168.3.1 ) \
    2.2 a přes RXcontrol je nastaven k RTK stanicím
