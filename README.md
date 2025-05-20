@@ -10,6 +10,6 @@ návod
    1.6 na BOM jsou všechny potřebné součástky a kde je sehnat
    1.7 budeme potřebovat 2 9v baterie, na arduinoa a na GNSS satelit
 
-## 2. oftware
+## 2. software
    2.1 mosaicHAT se bude must nastavit přes stránky septentrio (http://192.168.3.1)
    2.2 a přes RXcontrol je nastaven k RTK stanicím
