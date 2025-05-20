@@ -1,5 +1,4 @@
 # GNSS MosaicHAT reciever
-návod
 ![mosaicHAT_logo_withText](https://github.com/user-attachments/assets/fa5d2720-5744-4d43-ac49-5d1017e8f0d1)
 
 ## 1. motivation
