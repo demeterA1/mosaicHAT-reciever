@@ -24,7 +24,7 @@ tohle je manual pro přijímač satelitu, který ti řekne podle nich tvoji pozi
       na BOM jsou všechny potřebné součástky a kde je sehnat
       budeme potřebovat 2 9v baterie, na arduinoa a na GNSS satelit
       pokuď budete připojovat mosaic hat přímo ke zdoji, tak dávejte pozor ať tam nedáte více než anténá snese, protože 3,3V je chráněno, ale 5V není
-![GNSS reciever2_bb](https://github.com/user-attachments/assets/091bfd6d-fe38-4b7f-b4d9-f5461a4b392f)
+![GNSS reciever2_bb](https://github.com/user-attachments/assets/f987d5a2-fa03-4b0f-be45-cd4706785cbf)
 
 ## 3. software
 
