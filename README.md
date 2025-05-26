@@ -23,12 +23,13 @@ tohle je manual pro přijímač satelitu, který ti řekne podle nich tvoji pozi
       tlačítko je nepotřebné a je spíše jen na výpomoc u vypisování
       na BOM jsou všechny potřebné součástky a kde je sehnat
       budeme potřebovat 2 9v baterie, na arduinoa a na GNSS satelit
+      pokuď budete připojovat mosaic hat přímo ke zdoji, tak dávejte pozor ať tam nedáte více než anténá snese, protože 3,3V je chráněno, ale 5V není
 ![GNSS reciever2_bb](https://github.com/user-attachments/assets/091bfd6d-fe38-4b7f-b4d9-f5461a4b392f)
 
 ## 3. software
 
    mosaicHAT se bude must nastavit přes stránky septentrio ( http://192.168.3.1 ) \
-   a přes RXcontrol je nastaven k RTK stanicím
+   a přes RXcontrol je nastaven k RTK stanicím čepos
 
 ## sources
    mosaicHAT [github](https://github.com/septentrio-gnss/mosaicHAT) by septentrio
