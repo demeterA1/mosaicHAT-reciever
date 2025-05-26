@@ -32,5 +32,6 @@ tohle je manual pro přijímač satelitu, který ti řekne podle nich tvoji pozi
    a přes RXcontrol je nastaven k RTK stanicím čepos
 
 ## sources
-   mosaicHAT [github](https://github.com/septentrio-gnss/mosaicHAT) by septentrio
+   mosaicHAT [github](https://github.com/septentrio-gnss/mosaicHAT) by septentrio\
+   [datasheets](https://github.com/demeterA1/mosaicHAT-reciever/blob/main/datasheets/datasheets.md) pro součástky
    
