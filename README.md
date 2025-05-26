@@ -13,15 +13,17 @@ tohle je manual pro přijímač satelitu, který ti řekne podle nich tvoji pozi
          2x klip na 9v baterie
          1x displej
          1x tlačítko(nepotřebný)
+         1x přepínač
          kable
    ### x.2 navod   
-      budeme potřebovat GNSS antenu, kterou připojíme na mosaicHAT\
-      mosaicHAT připojíme na arduino UNO R4 Wifi\
-      budeme připojení k wifi, aby se mohl mosaicHAT připojit na RTK stanice\
-      informace z mosaicHAT budou vytištěny na displej\
-      tlačítko je nepotřebné a je spíše jen na výpomoc u vypisování\
-      na BOM jsou všechny potřebné součástky a kde je sehnat\
+      budeme potřebovat GNSS antenu, kterou připojíme na mosaicHAT
+      mosaicHAT připojíme na arduino UNO R4 Wifi
+      budeme připojení k wifi, aby se mohl mosaicHAT připojit na RTK stanice
+      informace z mosaicHAT budou vytištěny na displej
+      tlačítko je nepotřebné a je spíše jen na výpomoc u vypisování
+      na BOM jsou všechny potřebné součástky a kde je sehnat
       budeme potřebovat 2 9v baterie, na arduinoa a na GNSS satelit
+![GNSS reciever2_bb](https://github.com/user-attachments/assets/091bfd6d-fe38-4b7f-b4d9-f5461a4b392f)
 
 ## x. software
 
