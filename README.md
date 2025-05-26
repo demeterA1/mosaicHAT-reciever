@@ -4,8 +4,8 @@
 ## 1. motivation
 tohle je manual pro přijímač satelitu, který ti řekne podle nich tvoji pozici. Budeme používta [GNSS](https://en.wikipedia.org/wiki/Satellite_navigation)(Global Navigation Satellite System) anténu, která přijímá signál ze satelitů, [MosaicHAT](https://github.com/septentrio-gnss/mosaicHAT/tree/master) což je součástka, která ti zpracovává signál a dá ti různé data ohledně tve pozice a pozice satelitů. Aby jsme vytiskly naše informace použijeme Arduino UNO R4 wifi. Připojení k wifi použijem na to, aby mosaicHAT se připojil k [RTK](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning)(Real-time kinematic positioning) stanicím, které nám zpřesní naši pozici.
 
-## x. hardware
-   ### x.1 list součástek
+## 2. hardware
+   ### 2.1 list součástek
          1x mosaicHAT
          1x GNSS antena
          1x arduino UNO R4 wifi
@@ -15,7 +15,7 @@ tohle je manual pro přijímač satelitu, který ti řekne podle nich tvoji pozi
          1x tlačítko(nepotřebný)
          1x přepínač
          kable
-   ### x.2 navod   
+   ### 2.2 navod   
       budeme potřebovat GNSS antenu, kterou připojíme na mosaicHAT
       mosaicHAT připojíme na arduino UNO R4 Wifi
       budeme připojení k wifi, aby se mohl mosaicHAT připojit na RTK stanice
@@ -25,7 +25,11 @@ tohle je manual pro přijímač satelitu, který ti řekne podle nich tvoji pozi
       budeme potřebovat 2 9v baterie, na arduinoa a na GNSS satelit
 ![GNSS reciever2_bb](https://github.com/user-attachments/assets/091bfd6d-fe38-4b7f-b4d9-f5461a4b392f)
 
-## x. software
+## 3. software
 
    mosaicHAT se bude must nastavit přes stránky septentrio ( http://192.168.3.1 ) \
    a přes RXcontrol je nastaven k RTK stanicím
+
+## sources
+   mosaicHAT [github](https://github.com/septentrio-gnss/mosaicHAT) by septentrio
+   
