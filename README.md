@@ -81,6 +81,7 @@ fotografii je anténa Tallysman připojena k mosaicHAT. Propojka je umístěna p
 ![GNSS reciever3_bb](https://github.com/demeterA1/mosaicHAT-reciever/blob/main/fritzing/GNSS%20reciever4_bb.png)
 
 ## 3. software
+full code is [here](https://github.com/demeterA1/mosaicHAT-reciever/blob/main/code/sketch_may26a.ino)
    ### mosaicHAT
    mosaicHAT se bude must nastavit přes stránky septentrio\
    Když je připojen USB kabel, přijímač podporuje Ethernet-over-USB. IP adresa přidělená rozhraní Ethernet-over-USB je 192.168.3.1. Webové uživatelské rozhraní přijímače je pak přístupné pomocí (http://192.168.3.1).\
