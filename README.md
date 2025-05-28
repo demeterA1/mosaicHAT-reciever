@@ -8,7 +8,7 @@
 tohle je manual pro přijímač satelitu, který ti řekne podle nich tvoji pozici. Budeme používta [GNSS](https://en.wikipedia.org/wiki/Satellite_navigation)(Global Navigation Satellite System) anténu, která přijímá signál ze satelitů, [MosaicHAT](https://github.com/septentrio-gnss/mosaicHAT/tree/master) což je součástka, která ti zpracovává signál a dá ti různé data ohledně tve pozice a pozice satelitů. Aby jsme vytiskly naše informace použijeme Arduino UNO R4 wifi. Připojení k wifi použijem na to, aby mosaicHAT se připojil k [RTK](https://en.wikipedia.org/wiki/Real-time_kinematic_positioning)(Real-time kinematic positioning) stanicím, které nám zpřesní naši pozici.
 
 ## 2. hardware
-   ### 2.1 list součástek
+   ### list součástek
          1x mosaicHAT
          1x GNSS antena
          1x arduino UNO R4 wifi
@@ -79,17 +79,6 @@ fotografii je anténa Tallysman připojena k mosaicHAT. Propojka je umístěna p
 |pin tlačítka| arduino D2|
 
 ![GNSS reciever3_bb](https://github.com/demeterA1/mosaicHAT-reciever/blob/main/fritzing/GNSS%20reciever4_bb.png)
-   
-   ### 2.2 navod   
-      budeme potřebovat GNSS antenu, kterou připojíme na mosaicHAT
-      mosaicHAT připojíme na arduino UNO R4 Wifi
-      budeme připojení k wifi, aby se mohl mosaicHAT připojit na RTK stanice
-      informace z mosaicHAT budou vytištěny na displej
-      tlačítko je nepotřebné a je spíše jen na výpomoc u vypisování
-      na BOM jsou všechny potřebné součástky a kde je sehnat
-      budeme potřebovat 2 9v baterie, na arduinoa a na GNSS satelit
-      pokuď budete připojovat mosaic hat přímo ke zdoji, tak dávejte pozor ať tam nedáte více než anténá snese, protože 3,3V je chráněno, ale 5V není
-
 
 ## 3. software
    ### mosaicHAT
