@@ -60,6 +60,6 @@ fotografii je anténa Tallysman připojena k mosaicHAT. Propojka je umístěna p
 
 ## sources
    informace o mosaicHAT jsou z mosaicHAT [github](https://github.com/septentrio-gnss/mosaicHAT) by septentrio\
-   základ programu je z [instructables](https://www.instructables.com/Building-a-GNSS-Receiver-Using-MosaicHAT-and-Ardui/)\
+   originální nnávod je z [instructables](https://www.instructables.com/Building-a-GNSS-Receiver-Using-MosaicHAT-and-Ardui/)\
    [datasheets](https://github.com/demeterA1/mosaicHAT-reciever/blob/main/datasheets/datasheets.md) pro součástky
    
